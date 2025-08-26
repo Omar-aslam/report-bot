@@ -2,7 +2,7 @@
 
 **Report Bot** is a student project built in Python that ingests a CSV/Excel of transactions, cleans and categorizes them, flags large transactions, and generates a summarized **Excel report + charts**.  
 
-It’s designed to demonstrate **automation, data handling, and software development lifecycle (SDLC) skills** — perfect for internships or co-op positions.
+It’s designed to demonstrate **automation, data handling, and software development lifecycle (SDLC) skills**
 
 ---
 
