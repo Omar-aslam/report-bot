@@ -1,0 +1,25 @@
+date,description,amount,type
+2025-01-03,Payroll - RBC Direct Deposit,3000.00,INCOME
+2025-01-04,Metro Groceries,-56.43,EXPENSE
+2025-01-05,Rogers Internet,-85.50,EXPENSE
+2025-01-07,Tim Hortons Coffee,-4.50,EXPENSE
+2025-02-01,Rent Payment,-1200.00,EXPENSE
+2025-02-04,Uber Ride,-22.35,EXPENSE
+2025-02-28,Payroll - RBC Direct Deposit,3100.00,INCOME
+2025-03-03,Netflix Subscription,-16.99,EXPENSE
+2025-03-10,Esso Gas,-45.12,EXPENSE
+2025-03-12,Interac e-Transfer to Friend,-100.00,EXPENSE
+2025-03-15,Grocery - Loblaws,-98.77,EXPENSE
+2025-03-20,Concert Ticket,-120.00,EXPENSE
+2025-04-01,Rent Payment,-1200.00,EXPENSE
+2025-04-02,Starbucks,-6.20,EXPENSE
+2025-04-28,Payroll - RBC Direct Deposit,3200.00,INCOME
+2025-05-10,Service Fee,-3.00,EXPENSE
+2025-05-15,Hydro One,-70.00,EXPENSE
+2025-06-01,Apartment Rent,-1250.00,EXPENSE
+2025-06-15,GO Transit,-8.25,EXPENSE
+2025-07-22,Large Purchase TV,-1500.00,EXPENSE
+2025-08-10,Bonus Payment,500.00,INCOME
+2025-08-12,ATM FEE,-3.50,EXPENSE
+2025-08-20,Petro Canada,-40.00,EXPENSE
+2025-08-25,Interac Transfer from Parent,200.00,INCOME
